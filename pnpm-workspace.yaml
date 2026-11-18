@@ -1,0 +1,12 @@
+packages:
+  - packages/*
+  - apps/*
+
+linkWorkspacePackages: true
+packageImportMethod: "clone-or-copy"
+cleanupUnusedCatalogs: true
+
+allowBuilds:
+  nx: true
+minimumReleaseAgeExclude:
+  - "@pagopa/nx-terraform@0.5.17"

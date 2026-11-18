@@ -1,0 +1,9 @@
+{
+  "lockFileVersion": 2,
+  "modules": {
+    "github_repository": {
+      "hash": "4f28b6d54ac8b8501bfa471aa0ebb6f3b90a8a70aed44fd9554c2eee76ef6998",
+      "source": "https://registry.terraform.io/modules/pagopa-dx/github-environment-bootstrap/github/3.0.3"
+    }
+  }
+}
